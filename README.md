@@ -14,4 +14,6 @@ Steps :
 6. Open vs code -> Ctrl + Shift + X -> Search ESLint -> install ESLint -> restart vs code
 7. Create file main.js -> write your javascript code with airbnb style, ESLint will help you.
 
+![alt text](http://url/to/img.png)
+
 #Happy coding ...
